@@ -1,0 +1,64 @@
+{
+  "name": "Wordpress on Heroku",
+  "description": "with 8-Addons, 25-Plugins, 10-Templates",
+  "keywords": [
+    "Wordpress",
+    "Postgresql",
+    "Cloudinary",
+    "Memcached",
+    "Sendgrid"
+  ],
+  "website": "https://github.com/ya-s-u/wp-on-heroku",
+  "repository": "https://github.com/ya-s-u/wp-on-heroku/tree/production",
+  "logo": "https://s.w.org/about/images/logos/wordpress-logo-stacked-rgb.png",
+  "success_url": "/",
+  "scripts": {},
+  "env": {
+    "AUTH_KEY": {
+      "description": "for Wordpress Authentication",
+      "generator": "secret"
+    },
+    "AUTH_SALT": {
+      "description": "for Wordpress Authentication",
+      "generator": "secret"
+    },
+    "LOGGED_IN_KEY": {
+      "description": "for Wordpress Authentication",
+      "generator": "secret"
+    },
+    "LOGGED_IN_SALT": {
+      "description": "for Wordpress Authentication",
+      "generator": "secret"
+    },
+    "NONCE_KEY": {
+      "description": "for Wordpress Authentication",
+      "generator": "secret"
+    },
+    "NONCE_SALT": {
+      "description": "for Wordpress Authentication",
+      "generator": "secret"
+    },
+    "SECURE_AUTH_KEY": {
+      "description": "for Wordpress Authentication",
+      "generator": "secret"
+    },
+    "SECURE_AUTH_SALT": {
+      "description": "for Wordpress Authentication",
+      "generator": "secret"
+    },
+    "WP_CACHE": {
+      "description": "for Batcache (boolean)",
+      "value": "True"
+    }
+  },
+  "addons": [
+    "cloudinary",
+    "papertrail",
+    "heroku-postgresql",
+    "memcachedcloud",
+    "sendgrid",
+    "pgstudio",
+    "newrelic",
+    "pgbackups:auto-week"
+  ]
+}

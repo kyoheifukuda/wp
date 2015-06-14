@@ -1,0 +1,420 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Clippy - Site5.com\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-12-16 10:38+0200\n"
+"PO-Revision-Date: 2014-12-16 10:38+0200\n"
+"Last-Translator: \n"
+"Language-Team: Bulent Sahin <bsahin@site5.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_c;esc_attr_e;_n\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/inc/ajax-thumbnail-rebuild.php:52
+msgid "Reading attachments..."
+msgstr ""
+
+#: admin/inc/ajax-thumbnail-rebuild.php:73
+msgid "No attachments found."
+msgstr ""
+
+#: admin/inc/ajax-thumbnail-rebuild.php:81
+msgid "Done."
+msgstr ""
+
+#: admin/inc/ajax-thumbnail-rebuild.php:84
+#, php-format
+msgid "\"Rebuilding \" + %s + \" of \" + %s + \" (\" + %s + \")...\""
+msgstr ""
+
+#: admin/inc/ajax-thumbnail-rebuild.php:103
+msgid "Error"
+msgstr ""
+
+#: admin/inc/ajax-thumbnail-rebuild.php:120
+msgid "Select which thumbnails you want to rebuild"
+msgstr ""
+
+#: admin/inc/ajax-thumbnail-rebuild.php:121
+msgid "Toggle all"
+msgstr ""
+
+#: admin/inc/ajax-thumbnail-rebuild.php:131
+msgid "cropped"
+msgstr ""
+
+#: admin/inc/ajax-thumbnail-rebuild.php:138
+msgid "Only rebuild featured images"
+msgstr ""
+
+#: admin/inc/ajax-thumbnail-rebuild.php:141
+msgid ""
+"Note: If you've changed the dimensions of your thumbnails, existing "
+"thumbnail images will not be deleted."
+msgstr ""
+
+#: admin/inc/ajax-thumbnail-rebuild.php:145
+msgid "Rebuild All Thumbnails"
+msgstr ""
+
+#: admin/inc/ajax-thumbnail-rebuild.php:149
+msgid "Last image"
+msgstr ""
+
+#: admin/inc/customfunctions.php:18
+msgid ""
+"Portfolio archive pages will only display in WordPress 3.1 or above.  Please "
+"upgrade."
+msgstr ""
+
+#: admin/inc/customfunctions.php:154
+msgid "Post navigation"
+msgstr ""
+
+#: admin/inc/customfunctions.php:155
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: admin/inc/customfunctions.php:156
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: admin/inc/customfunctions.php:208
+#, php-format
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr ""
+
+#: admin/inc/customfunctions.php:210
+msgid "(Edit)"
+msgstr ""
+
+#: admin/inc/customfunctions.php:217
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: admin/inc/pagination.php:44 lib/post-formats/content.php:11 single.php:176
+msgid "Pages:"
+msgstr ""
+
+#: admin/inc/pagination.php:45
+msgid "&rsaquo;"
+msgstr ""
+
+#: admin/inc/pagination.php:45
+msgid "&lsaquo;"
+msgstr ""
+
+#: admin/inc/portfolio.post.type.php:7
+msgid "Add New portfolio"
+msgstr ""
+
+#: admin/inc/portfolio.post.type.php:8
+msgid "Edit Portfolio"
+msgstr ""
+
+#: admin/inc/portfolio.post.type.php:9
+msgid "New portfolio"
+msgstr ""
+
+#: admin/inc/portfolio.post.type.php:10
+msgid "View Portfolio"
+msgstr ""
+
+#: admin/inc/portfolio.post.type.php:11
+msgid "Search Portfolios"
+msgstr ""
+
+#: admin/inc/portfolio.post.type.php:12
+msgid "No portfolio found"
+msgstr ""
+
+#: admin/inc/portfolio.post.type.php:13
+msgid "No portfolio found in Trash"
+msgstr ""
+
+#: admin/inc/portfolio.post.type.php:18
+msgid "portfolio"
+msgstr ""
+
+#: admin/inc/portfolio.post.type.php:37
+msgid "Title"
+msgstr ""
+
+#: admin/inc/portfolio.post.type.php:38
+msgid "Tags"
+msgstr ""
+
+#: admin/inc/portfolio.post.type.php:39
+msgid "Author"
+msgstr ""
+
+#: admin/inc/portfolio.post.type.php:40
+msgid "Comments"
+msgstr ""
+
+#: admin/inc/portfolio.post.type.php:41
+msgid "Date"
+msgstr ""
+
+#: admin/inc/widgets.php:10
+msgid "Sidebar Widgets"
+msgstr ""
+
+#: admin/inc/widgets.php:19
+msgid "Footer Widgets"
+msgstr ""
+
+#: admin/inc/widgets.php:52
+msgid "Widget Title:"
+msgstr ""
+
+#: admin/inc/widgets.php:57
+msgid "Screen name:"
+msgstr ""
+
+#: admin/inc/widgets.php:61
+msgid "Number of Tweets:"
+msgstr ""
+
+#: admin/inc/widgets.php:93
+msgid "Follow Us on Twitter! "
+msgstr ""
+
+#: admin/meta-box-class/meta-box-class.php:254
+msgid "Delete this image"
+msgstr ""
+
+#: admin/meta-box-class/meta-box-class.php:254
+#: admin/meta-box-class/meta-box-class.php:863
+msgid "Delete"
+msgstr ""
+
+#: admin/meta-box-class/meta-box-class.php:346
+msgid "Cannot delete file. Something's wrong."
+msgstr ""
+
+#: admin/meta-box-class/meta-box-class.php:561
+#: admin/meta-box-class/meta-box-class.php:601
+msgid "Remove"
+msgstr ""
+
+#: admin/meta-box-class/meta-box-class.php:567
+msgid "Add New"
+msgstr ""
+
+#: admin/meta-box-class/meta-box-class.php:859
+msgid "Uploaded files"
+msgstr ""
+
+#: admin/meta-box-class/meta-box-class.php:870
+msgid "Upload new files"
+msgstr ""
+
+#: admin/meta-box-class/meta-box-class.php:876
+msgid "Add more files"
+msgstr ""
+
+#: admin/meta-box-class/meta-box-class.php:926
+msgid "Select a color"
+msgstr ""
+
+#: admin/options-framework.php:217
+msgid "A Theme by"
+msgstr ""
+
+#: admin/options-framework.php:217
+msgid "S5themes.com"
+msgstr ""
+
+#: admin/options-framework.php:235
+msgid "Save Options"
+msgstr ""
+
+#: admin/options-framework.php:236
+msgid "Restore Defaults"
+msgstr ""
+
+#: admin/options-framework.php:236
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: admin/options-framework.php:266
+msgid "Default options restored."
+msgstr ""
+
+#: admin/options-framework.php:313
+msgid "Options saved."
+msgstr ""
+
+#: admin/options-framework.php:361
+msgid "Theme Options"
+msgstr ""
+
+#: admin/options-medialibrary-uploader.php:26
+msgid "Options Framework Internal Container"
+msgstr ""
+
+#: admin/options-medialibrary-uploader.php:128
+msgid "Upload"
+msgstr ""
+
+#: admin/options-medialibrary-uploader.php:151
+msgid "View File"
+msgstr ""
+
+#: admin/options-medialibrary-uploader.php:288
+msgid "Gallery"
+msgstr ""
+
+#: admin/options-medialibrary-uploader.php:288
+msgid "Previously Uploaded"
+msgstr ""
+
+#: comments.php:12
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:50
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:61
+msgid "So, what do you think ?"
+msgstr ""
+
+#: comments.php:69
+msgid "You must be  "
+msgstr ""
+
+#: comments.php:69
+msgid "logged in "
+msgstr ""
+
+#: comments.php:69
+msgid "to post a comment. "
+msgstr ""
+
+#: comments.php:79
+msgid "Logged in as  "
+msgstr ""
+
+#: comments.php:79
+msgid "Log out &raquo; "
+msgstr ""
+
+#: comments.php:85
+msgid "Your Name "
+msgstr ""
+
+#: comments.php:90
+msgid "Your Mail "
+msgstr ""
+
+#: comments.php:95
+msgid "Your Website "
+msgstr ""
+
+#: comments.php:102
+msgid "Message "
+msgstr ""
+
+#: comments.php:107
+msgid "POST COMMENT"
+msgstr ""
+
+#: home.php:8 index.php:9
+msgid "Posts Categorized"
+msgstr ""
+
+#: home.php:10 index.php:11
+msgid "Posts Tagged"
+msgstr ""
+
+#: home.php:12 index.php:13
+msgid "Posts By"
+msgstr ""
+
+#: home.php:14 index.php:15
+msgid "Daily Archives"
+msgstr ""
+
+#: home.php:16 index.php:17
+msgid "Monthly Archives"
+msgstr ""
+
+#: home.php:18 index.php:19
+msgid "Yearly Archives"
+msgstr ""
+
+#: home.php:20 index.php:21 search.php:8
+msgid "Search Results"
+msgstr ""
+
+#: index.php:83 search.php:51
+msgid "No results found"
+msgstr ""
+
+#: page-temp-contact.php:8 page-temp-contact.php:87
+msgid "You forgot to enter your name."
+msgstr ""
+
+#: page-temp-contact.php:16 page-temp-contact.php:92
+msgid "You forgot to enter your email address."
+msgstr ""
+
+#: page-temp-contact.php:19
+msgid "You entered an invalid email address."
+msgstr ""
+
+#: page-temp-contact.php:27 page-temp-contact.php:99
+msgid "You forgot to enter your message."
+msgstr ""
+
+#: page-temp-contact.php:77
+msgid "There was an error submitting the form."
+msgstr ""
+
+#: page-temp-contact.php:79
+msgid ""
+"<strong>Thanks!</strong> Your email was successfully sent. We should be in "
+"touch soon."
+msgstr ""
+
+#: page-temp-contact.php:85
+msgid "Name"
+msgstr ""
+
+#: page-temp-contact.php:90
+msgid "Email"
+msgstr ""
+
+#: page-temp-contact.php:97
+msgid "Message"
+msgstr ""
+
+#: page-temp-contact.php:104
+msgid "Send"
+msgstr ""
+
+#: sidebar-footer.php:8 sidebar-primary.php:8
+msgid "Please activate some Widgets."
+msgstr ""
+
+#: sidebar-footer.php:11 sidebar-primary.php:11
+msgid "Add Widget"
+msgstr ""
+
+#: theme-options.php:103
+msgid "All Categories"
+msgstr ""
+
+#: theme-options.php:111
+msgid "Select a page:"
+msgstr ""

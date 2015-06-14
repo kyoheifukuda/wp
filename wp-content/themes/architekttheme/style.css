@@ -1,0 +1,107 @@
+/*
+Theme Name: Architekt Theme
+Theme URI: http://www.dessign.net/architekttheme/
+Description: Architekt Theme for WordPress is stylish, customizable, simple, and readable. Perfect for any illustrator or graphic designer. 
+Version: 2.0
+Author: Marios Lublinski
+Author URI: http://www.dessign.net
+Tags: 2 column theme, clean
+*/
+
+
+/** Global **/
+
+* { margin: 0; padding: 0; }
+body { font-family: arial, verdana, georgia; font-size: 12px; background-color: #FFFFFF;  color: #c7c7c7; }
+#outside_container { margin: 0 auto; background-color: #fff; border-top: 7px solid #FFFFFF; width: 1039px; }
+#main_container { width: 959px; margin: 0 auto; }
+h1,h2,h3,h4,h5,p { margin: 10px 0; }
+h1 { font-size: 15px; }
+a { color: #A1A1A1; text-decoration: none; }
+a:hover { text-decoration:underline; }
+.clear { clear: both; }
+.left { float: left; }
+.right { float: right; }
+img { border: none; }
+
+/** Header **/
+
+#header { }
+.header_top_text { padding: 5px 0; text-align: center; font-size: 20px; border-bottom: 1px dotted #ccc; color: #999; }
+.header_text_cont { float: right; padding: 0 25px 0 15px; margin: 10px 0; border-left: 1px solid #ddd; width: 275px; }
+.logo { float: left; margin-top: 15px; }
+
+#menu_container { padding: 5px 0; border-bottom: 1px solid #FFF; }
+#menu_container ul { list-style-type: none; }
+#menu_container ul li { float: left; font-size: 12px; }
+#menu_container ul li a { display: block; padding: 5px 15px; color: #999; text-decoration: none; }
+#menu_container ul li a:hover { background-color: #333; color: #999; }
+
+.current-menu-item a { background-color: #333; color: #999; }
+
+.header_search { float: right; position: relative; }
+.header_search input[type=text] { width: 284px; height: 28px; border: 1px solid #EEEEEE; padding-right: 30px; }
+.search_icon { position: absolute; right: 10px; top: 10px; }
+
+#slider_container { padding: 10px 0; border-bottom: 1px solid #E5E5E5; }
+#single_container { padding: 20px 0; }
+
+.home_blog_box { float: left; width: 306px; margin: 10px 20px 1px 0; }
+.home_blog_box img { width: 306px; height: 215px; opacity:1.0; filter:alpha(opacity=100); }
+.home_blog_box img:hover { opacity:0.8; filter:alpha(opacity=80); }
+.home_blog_box_last { margin-right: 0; }
+.home_blog_box h3 { font-size: 12px; font-weight: normal; color: #a4a4a5; }
+.home_blog_box h3 a { color: #a4a4a5; text-decoration: none; }
+.home_blog_box h3 a:hover { color: #333; }
+
+.home_port_cont { border-top: 1px solid #E5E5E5; padding: 5px 0 25px; }
+.home_port_box { float: left;  width: 306px; height: 387px; margin: 10px 20px 10px 0; }
+.home_port_box img { width: 306px; height: 387px; opacity:1.0; filter:alpha(opacity=100); }
+.home_port_box img:hover { opacity:0.8; filter:alpha(opacity=80); }
+.home_port_box_last { margin-right: 0; }
+.home_port_box h3 { font-size: 12px; font-weight: normal; color: #a4a4a5; }
+.home_port_box h3 a { color: #a4a4a5; text-decoration: none; }
+.home_port_box h3 a:hover { color: #333; }
+
+#single_left { width: 628px; float: left;  }
+#single_left p { color: #888888; }
+.blog_box { padding-bottom: 10px; margin-bottom: 10px; border-bottom: 1px solid #E5E5E5; }
+.blog_box p { color: #3E3E3E; }
+.blog_box h3 { font-size: 15px; }
+.blog_box h3 a { color: #c7c7c7; text-decoration: none; }
+.blog_box h3 a:hover { color: #333; }
+.blog_box img { width: 625px; height: 152px; }
+
+.port_box { float: left; width: 306px; margin: 5px 20px 5px 0; }
+.port_box_last { margin-right: 0; }
+.port_box_divider { border-bottom: 1px solid #c7c7c7; margin: 5px 0 10px; }
+.port_box img { width: 306px; height: 387px; }
+.port_box h3 a { color: #c7c7c7; text-decoration: none; }
+.port_box h3 a:hover { color: #333; }
+
+.navigation { padding: 15px 0; }
+.navigation a { color: #000000; text-decoration: none; }
+
+#commentform input[type=submit] { background-color: #161616; color: #fff; border: 1px solid #6E6E6E; padding: 3px 5px; }
+
+/** Sidebar **/
+
+#sidebar { width: 306px; float: right; margin-top: 37px; }
+.side_box { margin-bottom: 25px; }
+.side_box img { width: 306px; height: 215px; }
+.side_box h3 { font-size: 15px; }
+.side_box h3 a { color: #c7c7c7; text-decoration: none; }
+.side_box h3 a:hover { color: #333; }
+
+/** Footer **/
+
+.footer_box_cont { padding: 10px 0; border-top: 1px solid #E5E5E5; }
+.footer_box { width: 198px; float: left; padding-right: 20px; border-right: 1px solid #DDDDDD; color: #6c6c6c; margin-right: 20px; }
+.footer_box_last { border-right: none; }
+.footer_box h3 { color: #010101; font-size: 12px; font-weight: normal; }
+.footer_box ul { list-style-type: none; }
+.footer_box ul li { margin-bottom: 5px; }
+.footer_box a { color: #6c6c6c; text-decoration: none; }
+.footer_box a:hover { color: #333; }
+
+#footer { background-color: #fff; padding: 5px 40px 0 0; color: #838383; font-size: 11px; text-align: right; margin-top: 15px; margin-bottom: 10px; }

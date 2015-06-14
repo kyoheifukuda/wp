@@ -1,0 +1,31 @@
+@import url('http://fonts.googleapis.com/css?family=Ubuntu:400,700');
+
+body {background-color:#f3f3f3; color:#333; font-family:'Ubuntu', sans-serif;}
+h1, h2, h3, h4, h5, h6 {margin-top:0; color:#000;}
+a {color:#444;}
+a:hover {color:#009dd9; text-decoration:none;}
+
+#tinymce {line-height:1.75em; font-size:17px; background-color:#fff; width:750px;}
+#tinymce h1 {font-size:42px;}
+#tinymce h2 {font-size:37px;}
+#tinymce h3 {font-size:32px;}
+#tinymce h4 {font-size:27px;}
+#tinymce h5 {font-size:22px;}
+#tinymce h6 {font-size:17px;}
+#tinymce p, #tinymce ul, #tinymce ol {margin-bottom:25px;}
+#tinymce ul, #tinymce ol {padding:0; margin-left:16px;}
+#tinymce ul ul, #tinymce ol ol {margin-bottom:0;}
+#tinymce li {margin-bottom:12px;}
+#tinymce a {text-decoration:underline;}
+#tinymce img {display:inline-block; height:auto; max-width:100%;}
+#tinymce blockquote {text-align:center; font-size:18px; color:#999;}
+#tinymce blockquote cite {width:100%; display:block; font-size:15px; color:#777;}
+#tinymce table {margin-bottom:25px;}
+#tinymce table td, #tinymce table th {border:1px solid #ddd; padding:3px 6px;}
+#tinymce dl {margin-bottom:25px;}
+#tinymce dt {font-weight:bold;}
+#tinymce dd {margin:0 0 12px 0;}
+#tinymce .alignleft {float:left; margin:0 20px 12px 0;}
+#tinymce .alignright {float:right; margin:0 0 12px 20px;}
+#tinymce .wp-caption-text {font-size:15px; margin-top:0; text-decoration:italic;}
+#tinymce .wp-audio-shortcode {margin-bottom:30px;}
