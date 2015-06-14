@@ -17,7 +17,6 @@ Template Name:portfolio
                     <div class="page-heading">
                         <h1>Portfolio</h1>
                         <hr class="small">
-                        <span class="subheading">個人的に作ってきたものたち</span>
                     </div>
                 </div>
             </div>

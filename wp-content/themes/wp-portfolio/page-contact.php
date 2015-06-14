@@ -16,7 +16,6 @@ Template Name:contact
                     <div class="page-heading">
                         <h1>Contact Me</h1>
                         <hr class="small">
-                        <span class="subheading">なんかあればどうぞ</span>
                     </div>
                 </div>
             </div>
@@ -27,7 +26,6 @@ Template Name:contact
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                <p>制作のオーダーでもなんでも気軽にどうぞ</p>
                 <!-- Contact Form - Enter your email address on line 19 of the mail/contact_me.php file to make this form work. -->
                 <!-- WARNING: Some web hosts do not allow emails to be sent through forms to common mail hosts like Gmail or Yahoo. It's recommended that you use a private domain email address! -->
                 <!-- NOTE: To use the contact form, your site must be on a live web host with PHP! The form will not work locally! -->

@@ -11,7 +11,6 @@
                     <div class="site-heading">
                         <h1>Blog</h1>
                         <hr class="small">
-                        <span class="subheading">成長日記的なね</span>
                     </div>
                 </div>
             </div>
@@ -30,7 +29,6 @@
                                     <?php the_title(); ?>
                                 </h2>
                             </a>
-                            <p class="post-meta">Posted by <a href="#">Start Bootstrap</a> on September 24, 2014</p>
                         </div>
                             <article>
                                 <div class="container">
@@ -43,13 +41,6 @@
                         </article>
                     <?php endwhile; ?>
                 <?php endif; ?>
-                <hr>
-                <!-- Pager -->
-                <ul class="pager">
-                    <li class="next">
-                        <a href="#">Older Posts &rarr;</a>
-                    </li>
-                </ul>
             </div>
         </div>
     </div>

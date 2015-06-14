@@ -10,7 +10,7 @@
     <meta name="author" content="">
     <meta name="robots" content="noindex">
 
-    <title>Kyouhei Blog</title>
+    <title>kyouhei-portfolio</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="<?php echo get_template_directory_uri(); ?>/css/bootstrap.min.css" rel="stylesheet">

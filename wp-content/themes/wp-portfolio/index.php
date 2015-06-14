@@ -11,7 +11,6 @@
                     <div class="site-heading">
                         <h1>Blog</h1>
                         <hr class="small">
-                        <span class="subheading">成長日記的なねメモ的な</span>
                     </div>
                 </div>
             </div>
@@ -34,13 +33,6 @@
                         <hr>
                     <?php endwhile; ?>
                 <?php endif; ?>
-                <hr>
-                <!-- Pager -->
-                <ul class="pager">
-                    <li class="next">
-                        <a href="#">Older Posts &rarr;</a>
-                    </li>
-                </ul>
             </div>
         </div>
     </div>
