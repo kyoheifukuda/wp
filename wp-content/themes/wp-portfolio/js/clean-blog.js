@@ -1031,13 +1031,13 @@ jQuery(document).ready(function($) {
     }
 });
 
-jQuery(function($){
+$(function(){
   var $container = $('#container');
-    $container.imagesLoaded(function(){
-      $container.masonry({
-        itemSelector: '.item',
-        isFitWidth: true,
-        columnWidth: 180
+  $container.imagesLoaded(function(){
+    $container.masonry({
+      itemSelector: '.item',
+      isFitWidth: true,
+      isAnimated: true
       });
-    });
+  });
 });

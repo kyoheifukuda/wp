@@ -41,14 +41,14 @@
     <!-- Bootstrap Core JavaScript -->
     <script src="<?php echo get_template_directory_uri(); ?>/js/bootstrap.min.js"></script>
 
-    <!-- Custom Theme JavaScript -->
-    <script src="<?php echo get_template_directory_uri(); ?>/js/clean-blog.js"></script>
-
     <!-- Masonry JavaScript -->
     <script src="<?php echo get_template_directory_uri(); ?>/js/masonry.pkgd.min.js"></script>
 
     <!-- Masonry JavaScript -->
-    <script src="<?php echo get_template_directory_uri(); ?>js/imagesloaded.pkgd.min.js"></script>
+    <script src="<?php echo get_template_directory_uri(); ?>/js/imagesloaded.pkgd.min.js"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script src="<?php echo get_template_directory_uri(); ?>/js/clean-blog.js"></script>
 
 </body>
 
