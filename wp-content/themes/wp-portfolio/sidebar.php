@@ -19,13 +19,13 @@
                         <a href="<?php echo home_url('/'); ?>">Blog</a>
                     </li>
                     <li>
-                        <a href="http://kyouhei.main.jp/blog/?page_id=82">About</a>
+                        <a href="/?page_id=6">About</a>
                     </li>
                     <li>
-                        <a href="http://kyouhei.main.jp/blog/?page_id=84">Protfolio</a>
+                        <a href="/?page_id=10">Protfolio</a>
                     </li>
                     <li>
-                        <a href="http://kyouhei.main.jp/blog/?page_id=80">Contact</a>
+                        <a href="/?page_id=8">Contact</a>
                     </li>
                 </ul>
             </div>

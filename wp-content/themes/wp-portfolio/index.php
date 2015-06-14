@@ -30,7 +30,6 @@
                                    <i class="fa fa-file-text-o"></i> <?php the_title(); ?>
                                 </h2>
                             </a>
-                            <p class="post-meta">September 24, 2014</p>
                         </div>
                         <hr>
                     <?php endwhile; ?>
