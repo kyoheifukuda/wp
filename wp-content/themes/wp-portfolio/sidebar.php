@@ -9,7 +9,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="<?php echo home_url('/'); ?>">Kyouhei Blog</a>
+                <a class="navbar-brand" href="<?php echo home_url('/'); ?>">kyouhei's</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
